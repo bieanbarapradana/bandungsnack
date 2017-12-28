@@ -1,0 +1,1 @@
+[13-Jun-2016 04:48:19 UTC] PHP Fatal error:  Call to a member function data_categories() on null in /home/bandu100/public_html/application/controllers/Orders.php on line 200
